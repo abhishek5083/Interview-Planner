@@ -19,7 +19,7 @@ function Footer() {
       </div>
 
       <p className="footer-credit">
-        Built with <span>♥</span> by Abhijeet
+        Built with <span>♥</span> by Abhishek
       </p>
     </footer>
   )
